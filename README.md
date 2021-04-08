@@ -1,3 +1,3 @@
 # This is our repo's README file. 
 
-READMEs display automatically on the repo's home page.
+README.md files display automatically on a GitHub repo's home page.
