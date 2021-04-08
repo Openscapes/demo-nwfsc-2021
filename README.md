@@ -1,2 +1,3 @@
-# demo-nwfsc-2021
-Demo for Champions Workshop: GitHub for collaborative research
+# This is our repo's README file. 
+
+READMEs display automatically on the repo's home page.
